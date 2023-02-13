@@ -51,15 +51,15 @@
 
 ### *My GitHub Stats*
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src=" /> 
+<img height="180em" src=""/>
 </p>
 
 ### *My Academic CV*
 <!-- 
 |**Academic CV**|**LinkedIn Profile**|
 |:----:|:----:|
-|<a href="https://bimalka98.github.io/assets/myCVs/master/BPT_academic_CV.pdf"><img src="Logos/cv.png" alt="Logo" height="150"></a>|<a href="https://www.linkedin.com/in/bimalka98/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Logo" height="150"></a>|
+|<a href=""><img src="Logos/cv.png" alt="Logo" height="150"></a>|<a href="https://www.linkedin.com/in/bimalka98/"><img src="" alt="Logo" height="150"></a>|
  -->
  
 
