@@ -27,31 +27,34 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+
 **Programming    :**
 <code><img height="33" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/c-programming.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/csharp.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+
 **Embedded Systems Design:**
 <code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Atmel_logo_svg.svg"></code>
 <!-- <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code> -->
 <!-- <code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code> -->
 <!-- <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code> -->
+
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
----
+
 ### *My GitHub Stats*
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimalka98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimalka98&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
----
+
 ### *My Academic CV*
 <!-- 
 |**Academic CV**|**LinkedIn Profile**|
