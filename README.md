@@ -39,7 +39,6 @@
 <code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Atmel_logo_svg.svg"></code>
 <!-- <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code> -->
-<!-- <code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code> -->
 <!-- <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code> -->
 
 **Other Tools        :**
