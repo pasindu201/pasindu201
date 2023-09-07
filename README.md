@@ -10,11 +10,9 @@
 ### *Hi there,  👋 I'm Pasindu. A 2nd-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 - 🌱 I’m currently learning and refreshing my knowledge on *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
-- 💬 Ask me about anything [here](https://github.com/bimalka98/bimalka98/issues). If it is something I know, I can help you! 😉 
+- 💬 Ask me about anything [here](https://github.com/pasindu201/pasindu201/issues). If it is something I know, I can help you! 😉 
 ---
 ### *My Skills*
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 
 **Programming    :**
 <code><img height="33" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
@@ -39,6 +37,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 
 ### *My GitHub Stats*
 <p float="left">
