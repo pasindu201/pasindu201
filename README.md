@@ -25,13 +25,6 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javalogo.png"></code>
 
-
-
-**Embedded Systems Design:**
-
-<!-- <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code> -->
-<!-- <code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code> -->
-
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
@@ -42,37 +35,5 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/overleaflogo.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/netbeanslogo.jpeg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/android.jpeg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/androidlogo.jpeg"></code>
 
-### *My GitHub Stats*
-<p float="left">
-  <img height="180em" src="https://img.shields.io/github/followers/pasindu201style=social" alt="GitHub followers" />
-  <img height="180em" src="https://img.shields.io/github/commit-activity/m/pasindu201/repo-name?style=social" alt="GitHub commit activity" />
-</p>
-
-### *My Academic CV*
-<!-- 
-|**Academic CV**|**LinkedIn Profile**|
-|:----:|:----:|
-|<a href=""><img src="Logos/cv.png" alt="Logo" height="150"></a>|<a href="https://www.linkedin.com/in/bimalka98/"><img src="" alt="Logo" height="150"></a>|
- -->
- 
-
-*Click the icon to see my most upto date academic CV.* 😁
-
-<div align="left">
-  <a href=>
-    <img src="Logos/cv.png" alt="Logo" height="150">
-  </a>
-</div>
-
-
-<!--
----
-### *Wanna reach me?*
-- Feel free to drop a line via [email](mailto:bimalkapiyaruwan1998322@gmail.com)
-- You may also find me on 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bimalka98/) 
-- You may also find me on [LinkedIn](https://www.linkedin.com/in/bimalka98/)
--->
