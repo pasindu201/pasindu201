@@ -18,10 +18,11 @@
 
 **Programming    :**
 <code><img height="33" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/cpplogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Cpplogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/arduinologo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/csslogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/htmllogo.png"></code>
 
 **Embedded Systems Design:**
 <code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
