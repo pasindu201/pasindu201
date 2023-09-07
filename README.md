@@ -7,8 +7,8 @@
 [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]()
 
-### *Hi there,  👋 I'm Pasindu. A 2nd-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
-- 🌱 I’m currently learning and refreshing my knowledge on *Data structures, Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
+### *Hi there,  👋 I'm Pasindu. A 3nd-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+- 🌱 I’m currently learning and refreshing my knowledge on *Data structures and Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/pasindu201/pasindu201/issues). If it is something I know, I can help you! 😉 
 ---
@@ -39,11 +39,15 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/overleaflogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/netbeanslogo.jpeg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/android.jpeg"></code>
 
 ### *My GitHub Stats*
 <p float="left">
-<img height="180em" src=" /> 
-<img height="180em" src=""/>
+  <img height="180em" src="https://img.shields.io/github/followers/pasindu201style=social" alt="GitHub followers" />
+  <img height="180em" src="https://img.shields.io/github/commit-activity/m/pasindu201/repo-name?style=social" alt="GitHub commit activity" />
 </p>
 
 ### *My Academic CV*
