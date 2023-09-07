@@ -18,10 +18,10 @@
 
 **Programming    :**
 <code><img height="33" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/csharp.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/cpplogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
 
 **Embedded Systems Design:**
 <code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
