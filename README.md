@@ -39,3 +39,12 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/netbeanslogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/androidlogo.jpeg"></code>
 
+## 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindu201&show_icons=true&locale=en&theme=react" alt="pasindu201" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu201&show_icons=true&locale=en&layout=compact&theme=react" alt="pasindu201" height="192px"/>
+ <img width="800" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pasindu201&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
+<p align="center">Made with ❤️ by Me (probably)</p>
