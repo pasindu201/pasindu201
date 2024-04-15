@@ -24,6 +24,9 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javascriptlogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javalogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/springboot.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/django.jpeg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/react.png"></code>
 
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
