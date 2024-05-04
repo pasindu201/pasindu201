@@ -41,18 +41,17 @@
 
 ## 📊 Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu201&show_icons=true&locale=en&layout=compact" alt="pasindu201" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu201&show_icons=true&locale=en" alt="pasindu201" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu201&show_icons=true&locale=en&layout=compact&theme=dark" alt="pasindu201" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu201&show_icons=true&locale=en&theme=dark" alt="pasindu201" /></p>
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu201&" alt="pasindu201" /></p>
- <p align="left" >
-      <img
-          src="https://github-profile-trophy.vercel.app/?username=pasindu201"
-          alt="pasindu201"
-      />
-    </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu201&theme=dark" alt="pasindu201" /></p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=dark" alt="pasindu201" />
+</p>
+
    
 
 
