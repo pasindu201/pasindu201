@@ -14,7 +14,7 @@
 ---
 ### *My Skills*
 
-**Programming    :**
+**Programming Languages   :**
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/pythonlogo.png"></code>
 <code><img height="33" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Cpplogo.png"></code>
@@ -28,16 +28,23 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/djangologo.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/react.png"></code>
 
-**Other Tools        :**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+**Text Editors & IDEs       :**
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/overleaflogo.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/netbeanslogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/androidlogo.jpeg"></code>
+
+**Electronics        :**
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
+<code><img height="30" src="[https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png](https://cdn.freebiesupply.com/logos/large/2x/solidworks-logo-png-transparent.png)"></code>
+
+**Design & Graphics:         **
+
+**Other Tools        :**
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/overleaflogo.png"></code>
 
 ## 📊 Github Stats
 
