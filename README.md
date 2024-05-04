@@ -28,6 +28,10 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/djangologo.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/react.png"></code>
 
+**Data Bases           :**
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/mongodb.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/mysql.png"></code>
+
 **Text Editors & IDEs       :**
 <code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
