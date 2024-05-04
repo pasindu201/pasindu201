@@ -36,10 +36,10 @@
 
 **Electronics        :**
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
-<code><img height="30" src="[https://github.com/pasindu201/pasindu201/blob/main/solidworks-logo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/solidworks-logo.png"></code>
 
 **Design & Graphics          :**
-<code><img height="30" src="[https://github.com/pasindu201/pasindu201/blob/main/blender.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/blender.png"></code>
 
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
