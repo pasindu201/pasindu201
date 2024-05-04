@@ -38,7 +38,7 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
 <code><img height="30" src="[https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png](https://cdn.freebiesupply.com/logos/large/2x/solidworks-logo-png-transparent.png)"></code>
 
-**Design & Graphics:         **
+**Design & Graphics          :**
 
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
