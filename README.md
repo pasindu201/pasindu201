@@ -7,7 +7,7 @@
 [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]()
 
-### *Hi there,  👋 I'm Pasindu. A 3nd-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+### *Hi there,  👋 I'm Pasindu. A 4th-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 - 🌱 I’m currently learning and refreshing my knowledge on *Data structures and Algorithms, Object Oriented Programming in C++  and Python as well as some Machine Learning* and *whatever possible*. 😂
 - 📈 After the graduation, I would like to join the industry and apply what I have already learnt to solve real world problems while developing myself through exploring new areas of interest.😎 Because I believe in **applying** rather than **keep learning** all the shits in the world.
 - 💬 Ask me about anything [here](https://github.com/pasindu201/pasindu201/issues). If it is something I know, I can help you! 😉 
