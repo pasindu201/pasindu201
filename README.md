@@ -53,7 +53,7 @@
 
 ## 📊 Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu201&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pasindu201" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu201&show_icons=true&locale=en&theme=tokyonight" alt="pasindu201" /></p>
 
