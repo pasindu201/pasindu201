@@ -24,19 +24,27 @@
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javascriptlogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javalogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/springboot.png"></code>
+
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/djangologo.png"></code>
+
+**Frontend Development   :**
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/react.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/htmllogo.png"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/csslogo.jpeg"></code>
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javascriptlogo.jpeg"></code>
+
+**Backend Development   :**
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/springboot.png"></code>
 
 **Data Bases           :**
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/mongodb.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/mysql.png"></code>
 
-**Text Editors & IDEs       :**
-<code><img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/visual-studio-code.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/netbeanslogo.jpeg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/androidlogo.jpeg"></code>
+**Mobile App Development   :**
+<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
+
+**AI/ML   :**
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 
 **Electronics        :**
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
@@ -48,14 +56,13 @@
 **Other Tools        :**
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/overleaflogo.png"></code>
 
 ## 📊 Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu201&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pasindu201" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu201&show_icons=true&locale=en&theme=tokyonight" alt="pasindu201" /></p>
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu201&show_icons=true&locale=en&theme=tokyonight" alt="pasindu201" /></p><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu201&theme=tokyonight" alt="pasindu201" /></p>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=tokyonight" alt="pasindu201" />
