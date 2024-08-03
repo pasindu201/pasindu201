@@ -23,8 +23,6 @@
   </tr>
 </table>
 
-
----
 ### *My Statics*
 <p align="center">
 <table align="center">
