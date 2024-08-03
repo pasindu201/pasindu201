@@ -100,7 +100,7 @@
 <code><img height="30" src="overleaflogo.png"></code>
 <code><img height="30" src="platformIo.png"></code>
 
-
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
    
 
