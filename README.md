@@ -15,7 +15,7 @@
 ### *My Skills*
 
 **Programming Languages   :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/pythonlogo.png"></code>
+<code><img height="30" src="pythonlogo.png"></code>
 <code><img height="33" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Cpplogo.png"></code>
 <code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/arduinologo.png"></code>
