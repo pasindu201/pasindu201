@@ -16,48 +16,48 @@
 
 **Programming Languages   :**
 <code><img height="30" src="pythonlogo.png"></code>
-<code><img height="33" src="https://github.com/pasindu201/pasindu201/blob/main/Clogo.webp"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/Cpplogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/arduinologo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/htmllogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/csslogo.jpeg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javascriptlogo.jpeg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javalogo.png"></code>
+<code><img height="33" src="Clogo.webp"></code>
+<code><img height="30" src="Cpplogo.png"></code>
+<code><img height="30" src="arduinologo.png"></code>
+<code><img height="30" src="htmllogo.png"></code>
+<code><img height="30" src="csslogo.jpeg"></code>
+<code><img height="30" src="javascriptlogo.jpeg"></code>
+<code><img height="30" src="dartlogo.jpeg"></code>
+<code><img height="30" src="javalogo.png"></code>
 
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/djangologo.png"></code>
+<code><img height="30" src="djangologo.png"></code>
 
 **Frontend Development   :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/react.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/htmllogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/csslogo.jpeg"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/javascriptlogo.jpeg"></code>
+<code><img height="30" src="react.png"></code>
+<code><img height="30" src="htmllogo.png"></code>
+<code><img height="30" src="csslogo.jpeg"></code>
+<code><img height="30" src="javascriptlogo.jpeg"></code>
 
 **Backend Development   :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/springboot.png"></code>
+<code><img height="30" src="springboot.png"></code>
 
 **Data Bases           :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/mongodb.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/mysql.png"></code>
+<code><img height="30" src="mongodb.png"></code>
+<code><img height="30" src="mysql.png"></code>
 
 **Mobile App Development   :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/dartlogo.jpeg"></code>
+<code><img height="30" src="dartlogo.jpeg"></code>
 
 **AI/ML   :**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+<code><img height="30" src="NumPy_logo_2020.svg"></code>
 
 **Electronics        :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/altiumlogo.png"></code>
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/solidworks-logo.png"></code>
+<code><img height="30" src="altiumlogo.png"></code>
+<code><img height="30" src="solidworks-logo.png"></code>
 
 **Design & Graphics          :**
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/blender.png"></code>
+<code><img height="30" src="blender.png"></code>
 
 **Other Tools        :**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
+<code><img height="30" src="Git-logo.svg"></code>
+<code><img height="30" src="Tux.svg"></code>
 
-<code><img height="30" src="https://github.com/pasindu201/pasindu201/blob/main/overleaflogo.png"></code>
+<code><img height="30" src="overleaflogo.png"></code>
 
 ## 📊 Github Stats
 
