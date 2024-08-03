@@ -15,7 +15,7 @@
     <td width="70%">
       - 📈 I believe in applying my knowledge rather than continuously learning without practical application. After graduation, I joined the industry to solve real-world problems while exploring new areas of interest.<br>
       - 🌱 I’m currently refreshing my knowledge on Data Structures and Algorithms, Object-Oriented Programming in C++ and Python, as well as Machine Learning and anything else that piques my interest. <br>
-      - 💬 Ask me about anything [here](https://github.com/pasindu201/pasindu201/issues). If it's something I know, I'd be happy to help! 😉
+      - 💬 Ask me about anything (https://github.com/pasindu201/pasindu201/issues). If it's something I know, I'd be happy to help! 😉
     </td>
     <td width="30%" align="center">
       <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="160px"></p>  
