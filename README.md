@@ -11,7 +11,7 @@
 ## *Hi there,  👋 I'm Pasindu Sandeep. A 4th-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
 
 <table align="center">
-  <tr border="none>
+  <tr>
     <td width="70%">
       - 📈 I believe in applying my knowledge rather than continuously learning without practical application. After graduation, I joined the industry to solve real-world problems while exploring new areas of interest.<br>
       - 🌱 I’m currently refreshing my knowledge on Data Structures and Algorithms, Object-Oriented Programming in C++ and Python, as well as Machine Learning and anything else that piques my interest. <br>
