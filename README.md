@@ -2,7 +2,8 @@
 <!--[![Awesome Badges](https://img.shields.io/badge/Welcome-All-brightgreen)]()-->
 [![Awesome Badges](https://img.shields.io/badge/Learn-As%20Needed-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/Problem-Solver-blue)]()
-[![Awesome Badges](https://img.shields.io/badge/Strive-For%20Excellence-blue)]()
+[![Awesome Badges](https://img.shields.io/badge/Strive-For%20Excellence-blue)](
+)
 [![Awesome Badges](https://img.shields.io/badge/Love-Electronics-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Machine%20Vision-blue)]()
 [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]()
@@ -32,11 +33,11 @@
   <br></br> 
 </td>
 <td width="40%" align="center">
-  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=tokyonight" alt="pasindu201" /></a> </p>
 
 ---
