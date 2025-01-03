@@ -31,7 +31,7 @@
 <td width="60%" align="center">  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasindu201&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br> 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu201&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu201&theme=tokyonight&hide_border=false" /> 
 </td>
 <td width="40%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
