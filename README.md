@@ -31,6 +31,7 @@
 <td width="60%" align="center">  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasindu201&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br> 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=tokyonight" alt="pasindu201" />
 </td>
 <td width="40%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -38,7 +39,7 @@
 </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=tokyonight" alt="pasindu201" /></a> </p>
+</a> </p>
 
 ---
 
