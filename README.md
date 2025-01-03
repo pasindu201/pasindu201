@@ -27,18 +27,16 @@
 <p align="center">
 <table align="center">
 <tr border="1" cellpadding="10">
-<td width="60%" align="center">
-  
+<td width="60%" align="center">  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasindu201&theme=tokyonight&show_icons=true&count_private=true" />
-  <br></br>
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <br></br> 
 </td>
 <td width="40%" align="center">
   
   </td>
 </tr>
 </table>
-
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=tokyonight" alt="pasindu201" /></a> </p>
 
 ---
