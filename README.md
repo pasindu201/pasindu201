@@ -38,6 +38,7 @@
   </td>
 </tr>
 </table>
+<p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="pasindu201" /></a> </p>
 
 ---
 
