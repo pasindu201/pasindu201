@@ -9,7 +9,8 @@
 [![Awesome Badges](https://img.shields.io/badge/%20-Deep%20Learning-blue)]()
 ![IoT Badge](https://img.shields.io/badge/IoT-blue)
 
-## *Hi there,  👋 I'm Pasindu Sandeep. A 4th-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).*
+## *Hi there,  👋 I'm Pasindu Sandeep. A 4th-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka)
+.*
 
 <table align="center">
   <tr>
@@ -34,11 +35,11 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu201&theme=tokyonight&hide_border=false" /> 
 </td>
 <td width="40%" align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindukalinga&show_icons=true&locale=en" alt="pasindu201" /></p>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu201&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
-<p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="pasindu201" /></a> </p>
 
 ---
 
