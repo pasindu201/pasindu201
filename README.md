@@ -38,9 +38,6 @@
   </td>
 </tr>
 </table>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu201&theme=tokyonight" alt="pasindu201" />
-  
-</a> </p>
 
 ---
 
