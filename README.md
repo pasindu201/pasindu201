@@ -10,7 +10,6 @@
 ![IoT Badge](https://img.shields.io/badge/IoT-blue)
 
 ## *Hi there,  👋 I'm Pasindu Sandeep. A 4th-year undergraduate in the [Department of Electronic and Telecommunication Engineering](https://ent.uom.lk/) at the [University of Moratuwa](https://uom.lk/) in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka)
-.*
 
 <table align="center">
   <tr>
